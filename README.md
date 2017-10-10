@@ -4,7 +4,7 @@
 - Harrison Schwarzer
 
 # How to Compile 
-_To-Do_
+Jupyter Notebooks
 
 # How to Contribute
 __Simply clone and add!__
